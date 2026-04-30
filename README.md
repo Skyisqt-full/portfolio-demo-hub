@@ -32,7 +32,7 @@ Portfolio Demo Hub должен показывать, что разработч�
 | `web-scada-showcase` | Флагманская realtime-система для industrial dashboard. |
 | `route-ops` | Flutter-система для логистики и выездных заявок. |
 | `avito-ws-bridge` | Realtime integration bridge для сообщений. |
-| `DnsConf` | Java automation utility для DNS-конфигураций. |
+| `spring-kotlin-inventory` | Планируемая Java/Kotlin система учета, склада и внутренних операций. |
 | `wp-woocommerce-delivery-slots` | Планируемый WordPress/WooCommerce plugin. |
 | `bitrix24-lead-sync-app` | Планируемая интеграция с Битрикс24 CRM. |
 
@@ -54,4 +54,3 @@ pnpm dev
 ## English short version
 
 Portfolio Demo Hub is an interactive portfolio center for business systems: project filters, live demos, case studies, architecture notes and code highlights.
-
