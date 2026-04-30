@@ -29,7 +29,7 @@ Portfolio Demo Hub должен показывать, что разработч�
 
 | Проект | Роль |
 | --- | --- |
-| `web-scada-showcase` | Флагманская realtime-система для industrial dashboard. |
+| `web-scada-case-study` | Флагманский NDA-safe case study realtime-системы для industrial dashboard. |
 | `route-ops` | Flutter-система для логистики и выездных заявок. |
 | `avito-ws-bridge` | Realtime integration bridge для сообщений. |
 | `spring-kotlin-inventory` | Планируемая Java/Kotlin система учета, склада и внутренних операций. |
